@@ -3,7 +3,7 @@ Nutrient Calculator helps you analyse the nutrients that you're consuming with e
 
 ## Installation  
 ```bash  
-git clone https://github.com/muskaanshraogi/Nutrient-Calculator  
+git clone https://github.com/muskaanshraogi/Nutrient-Calculator.git  
 cd Nutrient-Calculator  
 cd client  
 npm install  
