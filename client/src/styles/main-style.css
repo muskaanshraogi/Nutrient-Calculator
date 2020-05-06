@@ -1,0 +1,38 @@
+.row {
+    height: 100vh;
+}
+
+.main-page {
+    margin: 0;
+    height: 100%;
+    overflow: hidden;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0,0,0.6)) , url('./../images/hero.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #cccccc;
+}
+
+.form {
+    margin-left: 150px;
+}
+
+.form-page {
+    background-color: rgba(255, 255, 255, 0.4);
+}
+
+.form-page2 {
+    background-color: rgba(255, 255, 255, 0.7);
+}
+
+.quantity {
+    width: 100px;
+}
+
+.ingredient {
+    width: 200px;
+}
+
+.add {
+    margin-top: 32px;
+    height: 30px;
+}
