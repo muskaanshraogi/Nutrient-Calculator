@@ -15,8 +15,8 @@ npm run dev
 ## Usage
 Enter the name of your recipe in the name section.  
 Then enter the ingredients used in your recipe, one on each line, in the format :  
-## quantity-unit-ingredient  
-where quantity is an integer, unit is unit of measurement (use 'none' for no unit) and ingredient is the name of your ingredient.  
+"quantity-unit-ingredient"  
+without the inverted commas where quantity is an integer, unit is unit of measurement (use 'none' for no unit) and ingredient is the name of your ingredient.  
 Submit the form to get your result.
 In case of error make sure the ingredient list is formatted correctly. Try changing your ingredients if they don't exist.  
 
